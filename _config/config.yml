@@ -1,0 +1,7 @@
+---
+Name: 'imageajaxapi'
+---
+Image:
+  extensions:
+    - ImageJSONExtension
+#   AjaxUploadDirectory: 'Uploads'

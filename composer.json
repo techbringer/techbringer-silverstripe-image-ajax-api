@@ -1,0 +1,19 @@
+{
+    "name": "techbringer/techbringer-silverstripe-image-ajax-api",
+    "description": "Techbringer's Image API via Ajax",
+    "type": "silverstripe-module",
+    "homepage": "https://github.com/techbringer/techbringer-silverstripe-image-ajax-api",
+    "license": "BSD 3-Clause",
+    "keywords": ["PHP", "library"],
+    "authors": [
+        {
+            "name": "Techbringer",
+            "homepage": "http://www.leochen.co.nz"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": ">=3.4",
+        "silverstripe/cms": ">=3.4",
+        "ntb/silverstripe-rest-api": "~1.0"
+    }
+}

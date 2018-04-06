@@ -1,0 +1,7 @@
+---
+Name: apiroutes
+After: framework/routes#coreroutes
+---
+Director:
+  rules:
+    'api/v/1/image/$ID': 'ImageAPI'
