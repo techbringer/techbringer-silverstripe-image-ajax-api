@@ -3,7 +3,7 @@
     "description": "Techbringer's Image API via Ajax",
     "type": "silverstripe-module",
     "homepage": "https://github.com/techbringer/techbringer-silverstripe-image-ajax-api",
-    "license": "BSD 3-Clause",
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "keywords": ["PHP", "library"],
     "authors": [
         {
